@@ -9,7 +9,11 @@
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
   }
   
-  .cont {
+  h1, h2, h3, h4 {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.cont {
 	position: relative;
 	overflow: hidden;
 	height: 100vh;
